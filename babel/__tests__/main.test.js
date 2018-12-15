@@ -28,7 +28,7 @@ const Button = require('runpappa')({
   port: '9999',
   filename: '/Users/yucong02/self/rush-papapa/babel/__tests__/fixture/react-es6/normal-Component.js',
   line: 4,
-  column: 0
+  column: 1
 })(class Button extends React.Component {
   render() {
     return h.div();

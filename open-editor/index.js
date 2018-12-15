@@ -106,7 +106,3 @@ module.exports = async (files, opts) => {
 }
 
 module.exports.make = make
-
-module.exports(['/Users/yucong02/baidu/erp/fe-okr/src/@befe/utils/dev-pattern-vm/Base/BaseAppView.js:8:15'], {
-  // editor: 'code'
-})
