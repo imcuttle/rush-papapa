@@ -21,8 +21,15 @@ yarn add rush-papapa
 
 ## Usage
 
-```javascript
-const rushPapapa = require('rush-papapa')
+#### `.babelrc`
+
+```diff
+{
+  "plugins": [
++   "rush-papapa/babel"
+    ...
+  ]
+}
 ```
 
 ## Contributing
