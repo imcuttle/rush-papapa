@@ -1,0 +1,13 @@
+.idea/
+.DS_Store
+node_modules/
+dist/
+public/
+**/*debug.log
+coverage/
+lib/
+.entry
+.dist
+/PID
+/PORT
+.vscode
