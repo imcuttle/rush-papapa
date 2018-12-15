@@ -13,6 +13,14 @@
     "version": "npm run changelog",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md"
   },
+  "files": [
+    "babel",
+    "lib",
+    "src",
+    "server",
+    "open-editor",
+    "index.js"
+  ],
   "husky": {
     "hooks": {
       "pre-commit": "pretty-quick --staged",

@@ -1,7 +1,8 @@
 # rush-papapa
 
-[![Build status](https://img.shields.io/travis/imcuttle/rush-papapa/master.svg?style=flat-square)](https://travis-ci.org/imcuttle/rush-papapa)
-[![Test coverage](https://img.shields.io/codecov/c/github/imcuttle/rush-papapa.svg?style=flat-square)](https://codecov.io/github/imcuttle/rush-papapa?branch=master)
+<!--[![Build status](https://img.shields.io/travis/imcuttle/rush-papapa/master.svg?style=flat-square)](https://travis-ci.org/imcuttle/rush-papapa)
+[![Test coverage](https://img.shields.io/codecov/c/github/imcuttle/rush-papapa.svg?style=flat-square)](https://codecov.io/github/imcuttle/rush-papapa?branch=master)-->
+
 [![NPM version](https://img.shields.io/npm/v/rush-papapa.svg?style=flat-square)](https://www.npmjs.com/package/rush-papapa)
 [![NPM Downloads](https://img.shields.io/npm/dm/rush-papapa.svg?style=flat-square&maxAge=43200)](https://www.npmjs.com/package/rush-papapa)
 [![Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://prettier.io/)
