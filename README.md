@@ -22,7 +22,7 @@ yarn add rush-papapa
 
 ## Usage
 
-#### `.babelrc`
+#### Set babel config
 
 ```diff
 {
@@ -32,6 +32,24 @@ yarn add rush-papapa
   ]
 }
 ```
+
+#### Open Url
+
+- `http://lcocalhost:port/?rush-papapa=true&rush-papapa-debug=true&rush-papapa-editor=vscode`
+
+##### query
+
+- `rush-papapa=true`
+
+Set `rush-papapa=true` to enable rush-papapa in page view.
+
+- `rush-papapa-debug=true`
+
+Set `rush-papapa-debug=true` to inject attributes in element.
+
+- `rush-papapa-editor=your-editor`
+
+Set the editor that rush-papapa would use it.
 
 ## Contributing
 
