@@ -35,7 +35,7 @@ yarn add rush-papapa
 
 #### Open Url
 
-- `http://lcocalhost:port/?rush-papapa=true&rush-papapa-debug=true&rush-papapa-editor=vscode`
+- `http://localhost:port/?rush-papapa=true&rush-papapa-debug=true&rush-papapa-editor=vscode`
 
 ##### query
 
